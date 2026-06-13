@@ -1,5 +1,3 @@
-Here is your **cleaned and updated README.md** with **DRDO removed and replaced with Cyber Security Internship**, formatted properly as a single file:
-
 ```markdown
 # SecureShop — Dockerized Secure E-Commerce Application
 
